@@ -1,4 +1,4 @@
-# GitHub README for the Python-Data-Visuals Repository
+# GitHub README for the "Eploratory Data Analysis on Retail Data with Python" Repository
 
 The purpose of this repository is to showcase my skill in quickly cleaning data and formatting it into easy to understand visuals using the Python coding language, as well as several software packages including pandas, matplotlib, and seaborn. The project I have used to showcase these skills “Perform Exploratory Data Analysis on Retail Data with Python” can be found on the Coursera website [here](https://www.coursera.org/projects/perform-exploratory-data-analysis-on-retail-data-with-python).
 
